@@ -24,7 +24,7 @@
     </ul>
     </div>
 </div>
-<script src="http://localhost/project/script.js"></script>
+<script src="http://localhost/Project/project/script.js"></script>
 <?php //include('reuse/header.php');?>    
 <center>
     

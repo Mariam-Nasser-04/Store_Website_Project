@@ -1,7 +1,7 @@
 <?php
      // Start Session
      session_start();
-     define('siteurl','http://localhost/project/');
+     define('siteurl','http://localhost/Project/project/');
      
      $Server='localhost';
      $DB_User='root';
