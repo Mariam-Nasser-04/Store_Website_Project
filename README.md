@@ -9,3 +9,4 @@ This project is a comprehensive online store website designed for both customers
 #Technologies used: 
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP, SQL
+- Database: MySQL
