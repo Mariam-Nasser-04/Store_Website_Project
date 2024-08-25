@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    /* font-family: 'Playpen Sans', cursive; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.appear{
+    /* border: 1px solid black; */
+    padding: 1%;
+    width: 85%;
+    margin: 0 auto;
+}
+.fix{
+    float: none;
+    clear: both;
+}
+.Text-center{
+    text-align: center;
+}
+.table{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+.table-2{
+    width: 50%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+}
+table tr td{
+    padding: 1%;
+}
+.btn-1{
+    background-color: rgba(76, 202, 76, 0.925);
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.btn-1:hover{
+    background-color: rgba(62, 169, 62, 0.925);
+}
+.btn-2{
+    background-color: rgba(88, 127, 235, 0.925);
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.btn-2:hover{
+    background-color: rgba(72, 103, 189, 0.925);
+}
+.btn-3{
+    background-color: rgba(215, 6, 6, 0.925);
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.btn-3:hover{
+    background-color: rgba(187, 8, 8, 0.925);
+}
+.btn-4{
+    background-color: rgba(144, 26, 207, 0.925);
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.btn-4:hover{
+    background-color: rgba(114, 21, 164, 0.925);
+}
+.success{
+    font-size: 20px;
+    color: rgb(31, 185, 82);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fail{
+    font-size: 20px;
+    color: rgb(185, 31, 31);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* CSS For Header */
+.header{
+    background-color: rgba(7, 7, 57, 0.717);
+}
+.header ul{
+    list-style: none;
+}
+.header ul li{
+   display: inline;
+   padding: 1%;
+   
+}
+.header ul li a{
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+.header ul li a:hover{
+    color: rgba(195, 74, 118, 0.701);
+}
+/* CSS For Main */
+.main{
+    /* margin: 1% 0; */
+    background-color: rgba(232, 232, 232, 0.856);
+    padding: 2% 0;
+}
+
+.col-4{
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+/* CSS For Footer */
+.footer{
+    background-color: rgba(7, 7, 57, 0.717);
+    color: white;
+}
